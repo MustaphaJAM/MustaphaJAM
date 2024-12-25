@@ -54,11 +54,11 @@
 
 <p align="center">
   <a href="https://github.com/MustaphaJAM">
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mustapha-jamaaoui&theme=tokyonight&hide_border=true" alt="MustaphaJamaaoui" />
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mustaphaJAM&theme=tokyonight&hide_border=true" alt="MustaphaJamaaoui" />
   </a>
 </p>
 <a> 
-    <a href="https://github.com/MustaphaJAM"><img alt="Mustapha Jamaaoui's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=mustapha-jamaaoui&show_icons=true&count_private=true&theme=react&border_color=339CFF&bg_color=24292e&title_color=339CFF&icon_color=339CFF" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/MustaphaJAM"><img alt="Mustapha Jamaaoui's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=mustapha-jamaaoui&langs_count=8&layout=compact&theme=react&border_color=339CFF&bg_color=24292e&title_color=FFFFFF&icon_color=339CFF" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/MustaphaJAM"><img alt="Mustapha Jamaaoui's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=MustaphaJAM&show_icons=true&count_private=true&theme=react&border_color=339CFF&bg_color=24292e&title_color=339CFF&icon_color=339CFF" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/MustaphaJAM"><img alt="Mustapha Jamaaoui's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=MustaphaJAM&langs_count=8&layout=compact&theme=react&border_color=339CFF&bg_color=24292e&title_color=FFFFFF&icon_color=339CFF" height="192px" width="49.5%"/></a>
   <br/>
 </a>
