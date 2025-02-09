@@ -32,7 +32,7 @@
   
   ✌️ &emsp; I’m a student who loves coding and solving problems. Every bug is a learning opportunity! <br/><br/>
   ❤️ &emsp; Passionate about building clean, functional, and user-friendly applications. <br/><br/>
-  🌱 &emsp; Currently learning and improving my skills in **React**, **JavaScript**, and **Backend Development**. <br/><br/>
+  🌱 &emsp; Currently learning and improving my skills in **Next.js** 🌐, **JavaScript** 🚀, and **Backend Development** with **Spring Boot** ☕ and **Distributed Systems** ⚙️. <br/><br/>
   📧 &emsp; Feel free to reach out: <a href="mailto:mustapha.mj.825@gmail.com">mustapha.mj.825@gmail.com</a>. <br/><br/>
 </p>
 <br/>
